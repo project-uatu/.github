@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-        _.-""""""-._
-    .-'`  .-""""-.  `'-.
-<  -  -  |  (@@)  |  -  -  >
-    '-.   `'-..-'`   .-'
-        '-.______.-'
-```
-
 # P R O J E C T &nbsp; U A T U
 
 **_The Watcher. Observing everything. Interfering with nothing._**
